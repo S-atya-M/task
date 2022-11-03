@@ -1,0 +1,481 @@
+.main{
+    background:#FCF7F3;
+}
+.parent{
+    background-color: #F5F5F5;
+    font-size: large black;
+}
+.my-ac{
+    box-sizing: border-box;
+    position: absolute;
+    width: 462px;
+    height: 74px;
+    left: 503px;
+    top: 170px;
+    right: 475px;
+    bottom: 1747px;
+    font-family: 'Gill Sans MT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    color: #4D4D4D;
+}
+.account{ 
+    color: #FE5268;
+ }
+ img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 646px;
+    top: 289px;
+    border-radius: 50%;
+    overflow: hidden;
+ }
+ .edit{
+    width: 26.23px;
+    height: 18.77px;
+    left: 800.92px;
+    right: 621.85px;
+    top: 317.59px;
+    bottom: 1654.65px;
+    position: absolute;
+ }
+
+ .dot{
+    position: absolute;
+    width: 63.11px;
+    height: 63.11px;
+    left: 782.89px;
+    top: 425.89px;
+    border-radius: 50%;
+    background: #4D4D4D;
+ }
+.bgimg{
+    position: absolute;
+width: 733px;
+height: 746px;
+left: -366px;
+top: 637px;
+bottom: 608px;
+right: 1073px;
+opacity: 0.1;
+}
+.name-tag{
+    width: 81px;
+    height: 28px;
+    left: 240px;
+    position: absolute;
+    right: 1119px;
+    top: 545px;
+    bottom: 1418px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25.6px;
+    line-height: 40px;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    color: #000000;
+    opacity: 0.5;
+}
+.name{ 
+    height: 35px;
+    width: 129px;
+    left: 240px;
+    right: 1071px;
+    top: 594px;
+    bottom: 1362px;
+    font-family: 'Avenir LT Std';
+    font-style: normal;
+    font-size: 29px;
+    font-weight: 300;
+    line-height: 35px;
+    text-align: left;
+    color: #000000;
+    position: absolute;
+}
+.email-tag{
+    position: absolute;
+right: 1117px;
+height: 27px;
+left: 240px;
+width: 83px;
+top: 662px;
+bottom: 1302px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25.6px;
+line-height: 40px;;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #000000;
+opacity: 0.5;
+}
+.email{
+    position: absolute;
+    top: 710px;
+    right: 979px;
+    left: 240px;
+    bottom: 1246px;
+    font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 28.83px;
+line-height: 35px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.phone{
+    position: absolute;
+    height: 23px;
+width: 86px;
+left: 240px;
+top: 778px;
+border-radius: nullpx;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25.6px;
+line-height: 156.5%;
+/* or 40px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+
+opacity: 0.5;
+}
+.phone-num{
+    position: absolute;
+    height: 35px;
+width: 150px;
+left: 240px;
+top: 822px;
+right: 1050px;
+bottom: 1134px;
+border-radius: nullpx;
+
+    font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 28.83px;
+line-height: 35px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #000000;
+
+}
+.password{
+    position: absolute;
+    left: 240px;
+    height: 40px;
+width: 114px;
+left: 240px;
+top: 890px;
+bottom: 1061px;
+right: 1086px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25.6px;
+line-height: 40px;
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+
+opacity: 0.5;
+
+}
+.sub{
+    position: absolute;
+    height: 40px;
+width: 232px;
+left: 240px;
+top: 963px;
+right: 968px;
+bottom: 988px;
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25.6px;
+line-height: 156.5%;
+/* identical to box height, or 40px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+
+opacity: 0.5;
+}
+.memb{
+    position: absolute;
+    height: 35px;
+width: 407px;
+left: 240px;
+top: 1048px;
+bottom: 908px;
+border-radius: nullpx;
+
+    font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 28.83px;
+line-height: 35px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.strt{
+    position: absolute;
+    height: 62px;
+width: 257px;
+left: 245px;
+top: 1088px;
+bottom: 841px;
+right: 938px;
+border-radius: nullpx;
+
+    font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 25.63px;
+line-height: 31px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+
+opacity: 0.65;
+}
+.sub-his{
+    position: absolute;
+    position: absolute;
+width: 227.09px;
+height: 31px;
+left: 245px;
+top: 1158px;
+bottom: 802px;
+right: 968px;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 25.63px;
+line-height: 31px;
+/* identical to box height */
+
+text-decoration-line: underline;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* grey */
+
+color: #4D4D4D;
+}
+.ref-detl{
+    position: absolute;
+    width: 179.31px;
+height: 40px;
+left: 240px;
+top: 1222px;
+bottom: 729px;
+right: 1020.69px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25.6px;
+line-height: 40px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #000000;
+opacity: 0.5;
+}
+.ref-detl-show{
+    
+position: absolute;
+width: 959px;
+height: 80px;
+left: 240px;
+right: 241px;
+top: 1262px;
+bottom: 649px;
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 25.6px;
+line-height: 40px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #000000;
+opacity: 0.65;
+}
+.ref-code{
+    position: absolute;
+width: 348px;
+height: 40px;
+left: 240px;
+top: 1374px;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 25.6px;
+line-height: 40px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+
+}
+.ref-his{
+    position: absolute;
+width: 227.09px;
+height: 31px;
+left: 240px;
+top: 1422px;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 25.63px;
+line-height: 31px;
+/* identical to box height */
+
+text-decoration-line: underline;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* grey */
+
+color: #4D4D4D;
+
+}
+.edit-name-btn{
+    position: absolute;
+width: 43px;
+height: 40px;
+left: 1141px;
+top: 589px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 25.6px;
+line-height: 40px;
+text-decoration-line: underline;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #F24397;
+
+animation-timing-function: ease-out;
+animation-duration: 300ms;
+}
+.edit-email-btn{
+    
+position: absolute;
+width: 43px;
+height: 40px;
+left: 1141px;
+top: 695px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 25.6px;
+line-height: 156.5%;
+/* identical to box height, or 40px */
+
+text-decoration-line: underline;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* dark pink */
+
+color: #F24397;
+}
+.edit-num-btn{
+    position: absolute;
+width: 43px;
+height: 40px;
+left: 1141px;
+top: 817px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 25.6px;
+line-height: 156.5%;
+/* identical to box height, or 40px */
+
+text-decoration-line: underline;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* dark pink */
+color: #F24397;
+}
+.pass-ch-btn{
+    position: absolute;
+    width: 203px;
+    height: 40px;
+    left: 981px;
+    top: 890px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25.6px;
+    line-height: 156.5%;
+    /* identical to box height, or 40px */
+    
+    text-align: right;
+    text-decoration-line: underline;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    
+    /* dark pink */
+    
+    color: #F24397;
+}
+.plan-ch-btn{
+    position: absolute;
+width: 142.57px;
+height: 40px;
+left: 1049px;
+top: 1036px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 25.6px;
+line-height: 156.5%;
+/* identical to box height, or 40px */
+
+text-decoration-line: underline;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* dark pink */
+
+color: #F24397;
+}
+.copy-btn{
+    position: absolute;
+width: 58px;
+height: 40px;
+left: 1141px;
+top: 1374px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 25.6px;
+line-height: 156.5%;
+/* identical to box height, or 40px */
+
+text-decoration-line: underline;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* dark pink */
+
+color: #F24397;
+}

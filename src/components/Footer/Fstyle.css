@@ -1,0 +1,243 @@
+.Footer{
+    position: absolute;
+width: 1440px;
+height: 458px;
+left: 0px;
+top: 1533px;
+background: #FFF3E9;
+}
+.talk{
+    position: absolute;
+width: 110px;
+height: 35px;
+left: 189px;
+top: 40px;
+bottom: 383px;
+/* H3 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 28.83px;
+line-height: 35px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.exmp{
+    position: absolute;
+width: 197px;
+height: 28px;
+left: 1007px;
+top: 42px;
+
+/* Large p */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 28px;
+/* or 28px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+
+}
+.book-apn{
+    
+position: absolute;
+width: 370px;
+height: 44px;
+left: 189px;
+top: 91px;
+
+/* H1 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 36.49px;
+line-height: 44px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.line{
+    position: absolute;
+width: 1063px;
+height: 0px;
+left: 188px;
+top: 151px;
+
+border: 1px solid #000000;
+}
+.exm-num{
+    position: absolute;
+width: 145px;
+height: 28px;
+left: 1048px;
+top: 107px;
+
+/* Large p */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 156.5%;
+/* or 28px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+
+}
+.detl{
+    position: absolute;
+width: 521px;
+height: 75px;
+left: 189px;
+top: 167px;
+
+/* Para */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 156.5%;
+/* or 25px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.message-logo{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1227px;
+    top: 44.33px;
+}
+.whatsapp-logo{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 1227px;
+top: 106px;
+}
+.child{
+    position: absolute;
+
+top: 377px;
+height: 81px;
+width: 1440px;
+border-radius: 0px;
+
+
+background: #000000;
+}
+.box{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 7px;
+
+position: absolute;
+width: 458px;
+height: 22px;
+left: 491px;
+top: 29px;
+background: #000000;
+}
+.yoga{
+    width: 228px;
+height: 22px;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.elip{
+    position: absolute;
+left: 51.31%;
+right: 47.6%;
+top: 36.36%;
+bottom: 40.91%;
+background: #FFFFFF;
+border-radius: 50%;
+}
+.policy{
+    
+position: absolute;
+left: 54.59%;
+right: 24.45%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+}
+.elip2{
+    position: absolute;
+left: 77.07%;
+right: 21.83%;
+top: 36.36%;
+bottom: 40.91%;
+
+background: #FFFFFF;
+border-radius: 50%;
+}
+.terms{
+    position: absolute;
+left: 80.35%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+display: flex;
+align-items: center;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+}
