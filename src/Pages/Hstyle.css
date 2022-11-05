@@ -1,0 +1,865 @@
+.heading{
+position: absolute;
+width: 277px;
+height: 44px;
+left: 155.81px;
+top: 147.21px;
+/* H1 */
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 36.49px;
+line-height: 44px;
+/* identical to box height */
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #000000;
+}
+.prog{
+    position: absolute;
+width: 183.11px;
+height: 36px;
+left: 155.81px;
+top: 197.65px;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 22.78px;
+line-height: 160%;
+/* or 36px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* grey */
+
+color: #4D4D4D;
+
+}
+.detl{
+    position: absolute;
+width: 70px;
+height: 27px;
+left: 867.21px;
+top: 255.23px;
+
+/* H5 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 22.78px;
+line-height: 27px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* red */
+
+color: #FE5266;
+
+}
+.techn{
+    position: absolute;
+width: 114px;
+height: 27px;
+left: 1002.53px;
+top: 255.23px;
+
+/* H5 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 22.78px;
+line-height: 27px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* grey */
+
+color: #4D4D4D;
+
+}
+.bg-img-h{
+    position: absolute;
+left: 1073.18px;
+top: 88px;
+opacity: 10;
+
+}
+.aed{
+    position: absolute;
+width: 82.16px;
+height: 21.04px;
+left: 867.28px;
+top: 610.88px;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 750;
+font-size: 18px;
+line-height: 156.5%;
+/* or 28px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* GradientText */
+
+background: linear-gradient(90.19deg, #F24397 0.17%, #F64C3B 105.5%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+
+}
+.det2{
+   
+position: absolute;
+width: 355.72px;
+height: 205.98px;
+left: 867.21px;
+top: 317.77px;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 20.25px;
+line-height: 160%;
+/* or 32px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.video-box{
+    position: absolute;
+width: 634.48px;
+height: 398.07px;
+left: 156px;
+top: 259.57px;
+
+background: #C4C4C4;
+opacity: 0.7;
+border-radius: 16px;
+}
+.intro{
+    position: absolute;
+width: 201.43px;
+height: 31.51px;
+left: 171.46px;
+top: 275.54px;
+
+/* Large p */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 156.5%;
+/* or 28px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.play-btn{
+    position: absolute;
+    height: 67.7586898803711px;
+    width: 44.1259765625px;
+    left: 295.17px;
+    top: 308.64px;
+    border-radius: 0px;
+}
+.join-box{
+    position: absolute;
+    left: 867.21px;
+    top: 675.6px;
+    height: 61.9px;
+    width: 133.4px;
+    background: linear-gradient(90.19deg, #F24397 0.17%, #F64C3B 105.5%);
+    border-radius: 50px;
+}
+.join-now{
+    position: absolute;
+left: 893.15px;
+height: 36.12px;
+width: 72px;
+left: 893.15px;
+top: 688.5px;
+/* Large p */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 156.5%;
+/* or 28px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #FFFFFF;
+}
+
+.view-box{
+    position: absolute;
+    height: 61.9px;
+    width: 172.4px;
+    left: 1018.8px;
+    top: 675.5px;    
+}
+.view-box-txt{
+    position: absolute;
+    height: 36.1px;
+    width: 117px;
+    left: 1044.79px;
+    top: 688.5px;
+    font-family: 'Avenir LT Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 156.5%;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    background: linear-gradient(90.19deg, #F24397 0.17%, #F64C3B 105.5%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+button{
+    cursor: pointer;
+}
+.struct-box{
+    position: absolute;
+width: 1441.13px;
+height: 442.4px;
+left: 0px;
+top: 785.12px;
+
+background: #FFF3E9;
+opacity: 0.87;
+border-radius: 16px;
+}
+.strut-title{
+    position: absolute;
+width: 375.75px;
+height: 58px;
+left: 160.12px;
+top: 48.88px;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 37.65px;
+line-height: 156.5%;
+/* or 59px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.strut-subtitle{
+    position: absolute;
+width: 442px;
+height: 56px;
+left: 160.12px;
+top: 118.88px;
+
+/* Large p */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 156.5%;
+/* or 28px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.day-main{
+    position: absolute;
+    width: 266.35px;
+    height: 77.43px;
+    left: 156.18px;
+    top: 244px;
+
+
+}
+.days{
+/* H1 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 80.49px;
+line-height: 97px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* GradientText */
+
+background: linear-gradient(90.19deg, #F24397 0.17%, #F64C3B 105.5%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+}
+.days1{
+/* H1 */
+position: absolute;
+left: 100px;
+font-style: normal;
+font-weight: 300;
+font-size: 36.49px;
+line-height: 109px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+}
+.yoga-text{
+    position: absolute;
+width: 72px;
+height: 39px;
+left: 156px;
+top: 340.35px;
+
+/* H2 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 32.443px;
+line-height: 39px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #565656;
+}
+.reco{
+    position: absolute;
+width: 132px;
+height: 39px;
+left: 250px;
+top: 340.45px;
+
+/* H2 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 32.443px;
+line-height: 39px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #565656;
+
+}
+.rest{
+    position: absolute;
+width: 62px;
+height: 39px;
+left: 404px;
+top: 340.45px;
+
+/* H2 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 32.443px;
+line-height: 39px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #565656;
+}
+.rep{
+    position: absolute;
+width: 103px;
+height: 39px;
+left: 488px;
+top: 340.35px;
+
+/* H2 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 32.443px;
+line-height: 39px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #565656;
+}
+.pipe-one{
+    position: absolute;
+width: 0px;
+height: 33.86px;
+left: 239px;
+top: 343.46px;
+
+opacity: 0.4;
+/* grey */
+
+border: 1px solid #4D4D4D;
+}
+.pipe-two{
+    position: absolute;
+width: 0px;
+height: 33.86px;
+left: 393px;
+top: 343.46px;
+
+opacity: 0.4;
+/* grey */
+
+border: 1px solid #4D4D4D;
+}
+.pipe-three{
+    position: absolute;
+width: 0px;
+height: 33.86px;
+left: 477px;
+top: 343.46px;
+
+opacity: 0.4;
+/* grey */
+border: 1px solid #4D4D4D;
+}
+.struct-img{
+    position: absolute;
+    width: 437.37px;
+    height: 439.23px;
+    left: 848.37px;
+    top: 779px;
+}
+.polygon1{
+    position: absolute;
+width: 35px;
+height: 35px;
+top: 2677px;
+left: 1139px;
+}
+.polygon2{
+    position: absolute;
+width: 35px;
+height: 35px;
+top: 2677px;
+left: 1192px;
+}
+
+.Ellip{
+    position: absolute;
+width: 424.16px;
+height: 424.16px;
+left: 248.51px;
+top: 1485.35px;
+}
+.dane{
+    position: absolute;
+width: 288.5px;
+height: 363.49px;
+left: 306.13px;
+top: 1490.9px;  
+}
+.face{
+    position: absolute;
+width: 293.27px;
+height: 98.62px;
+left: 303.75px;
+top: 1490.9px;
+}
+.sche{
+    position: absolute;
+width: 124px;
+height: 47px;
+left: 156px;
+top: 1284.47px;
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 156.5%;
+/* identical to box height, or 47px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.day-one{
+    position: absolute;
+width: 176px;
+height: 39px;
+left: 828.22px;
+top: 1419.04px;
+
+/* H2 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 32.443px;
+line-height: 39px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.box-week{
+    position: absolute;
+width: 475.67px;
+height: 283.12px;
+left: 828.22px;
+top: 1496.41px;
+
+background: #C4C4C4;
+}
+.polygon11{
+    position: absolute;
+width: 35px;
+height: 35px;
+left: 1214.56px;
+top: 1423.04px;
+}
+.polygon22{
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 1268.19px;
+    top: 1423.04px;
+}
+.week{
+    position: absolute;
+    height: 61.91px;
+    width: 145px;
+    left: 1159.89px;
+    top: 1655.57px;
+    border-radius: 8px;
+    background: #FFFFFF;
+    border: 1px solid rgba(77, 77, 77, 0.6);
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.26);
+    border-radius: 8px;
+}
+.week-txt{
+    position: absolute;
+    left: 11.41px;
+    top: 12.9px;
+    height: 28px;
+    width: 60px;
+    /* Large p */
+    font-family: 'Avenir LT Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 156.5%;
+    /* or 28px */
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    color: #000000;
+}
+.polygon3{
+    height: 20.6px;
+    width: 16px;
+    left: 117.86px;
+    top: 16.77px;
+    position:absolute;
+    border-radius: 2px;
+}
+.text-box{
+    position: absolute;
+    width: 421px;
+    height: 84px;
+    left: 828.22px;
+    top: 1822.24px;
+    /* Large p */
+    font-family: 'Avenir LT Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 156.5%;
+    /* or 28px */
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    color: #000000;
+}
+.join-today{
+    position: absolute;
+width: 183.11px;
+height: 36px;
+left: 829.11px;
+top: 1917.59px;
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 22.78px;
+line-height: 160%;
+/* or 36px */
+font-feature-settings: 'tnum' on, 'lnum' on;
+/* GradientText */
+background: linear-gradient(90.19deg, #F24397 0.17%, #F64C3B 105.5%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+.curve{ 
+box-sizing: border-box;
+position: absolute;
+width: 427.8px;
+height: 261.98px;
+left: 209.16px;
+top: 1687.8px;
+opacity: 0.5;
+/* grey */
+}
+.ball-one{    
+position: absolute;
+width: 61.58px;
+height: 60.94px;
+left: 177.3px;
+top: 1645.91px;
+}
+.ball-two{
+position: absolute;
+width: 16.43px;
+height: 16.43px;
+left: 209.84px;
+top: 1756.33px;
+}
+.ball-three{
+    position: absolute;
+width: 16.43px;
+height: 16.43px;
+left: 245.91px;
+top: 1834.13px;
+}
+.ball-forth{
+    position: absolute;
+width: 16.43px;
+height: 16.43px;
+left: 326.3px;
+top: 1908.09px;
+}
+.ball-five{
+    position: absolute;
+    width: 16.43px;
+    height: 16.43px;
+    left: 433.9px;
+    top: 1941.01px;
+}
+.ball-six{
+    position: absolute;
+    width: 16.43px;
+    height: 16.43px;
+    left: 544.47px;
+    top: 1923.99px;
+}
+.ball-seven{
+    position: absolute;
+width: 16.43px;
+height: 16.43px;
+left: 630.45px;
+top: 1866.86px;
+}
+.orange{
+    position: absolute;
+width: 16px;
+height: 15.9px;
+top:2397px;
+left: 171px;
+}
+.white-ball{
+    position: absolute;
+width: 20px;
+height: 20px;
+top: 2344px;
+left: 169px;
+}
+.tech{
+    position: absolute;
+width: 215px;
+height: 44px;
+top:2103px;
+left: 169px;
+/* H1 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 36.49px;
+line-height: 44px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.tech-det-box{
+    position: absolute;
+width: 739px;
+height: 423px;
+top: 2231px;
+left: 488px;
+background: #C4C4C4;
+opacity: 0.3;
+border-radius: 16px;
+}
+.rec-box{
+    position: absolute;
+width: 182px;
+height: 160px;
+top: 2270px;
+left: 512px;
+background: #FE5268;
+border-radius: 16px;
+}
+.tech-det-box-text{
+    top: 2302px;
+    left: 730px;
+    position: absolute;
+width: 465px;
+height: 281px;
+
+/* Para */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 156.5%;
+/* or 25px */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+/* grey */
+
+color: #4D4D4D;
+}
+.tech-name{
+    position: absolute;
+width: 138px;
+height: 31px;
+top: 2446px;
+left: 513px;
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 25.63px;
+line-height: 31px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #000000;
+}
+.tech-pic{
+    
+position: absolute;
+width: 210px;
+height: 226px;
+top: 2194px;
+left: 474px;
+border-radius: 16px;
+
+}
+.ashrei{
+    position: absolute;
+width: 122px;
+height: 27px;
+top: 2230px;
+left: 213px;
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 22.78px;
+line-height: 27px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #8C8C8C;
+}
+.rahul{
+    position: absolute;
+width: 57px;
+height: 27px;
+top: 2309px;
+left: 231px;
+/* H5 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 22.78px;
+line-height: 27px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #8C8C8C;
+}
+.ashrei-second{
+    position: absolute;
+width: 155px;
+height: 35px;
+left: 213px;
+top: 2387px;
+/* H3 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 28.83px;
+line-height: 35px;
+/* identical to box height */
+
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #FE5266;
+}
+.ashray{
+    position: absolute;
+width: 68px;
+height: 27px;
+left: 213px;
+top: 2469px;
+/* H5 */
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 22.78px;
+line-height: 27px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #8C8C8C;
+}
+.ashish{
+    
+position: absolute;
+width: 66px;
+height: 27px;
+top: 2548px;
+left: 213px;
+/* H5 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 22.78px;
+line-height: 27px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #8C8C8C;
+}
+.zora{
+    position: absolute;
+width: 46px;
+height: 27px;
+top: 2627px;
+left: 213px;
+/* H5 */
+
+font-family: 'Avenir LT Std';
+font-style: normal;
+font-weight: 300;
+font-size: 22.78px;
+line-height: 27px;
+font-feature-settings: 'tnum' on, 'lnum' on;
+
+color: #8C8C8C;
+
+
+}

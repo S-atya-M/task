@@ -1,7 +1,9 @@
 import React from 'react'
-import "./MidStyle.css"
+import "./AccountStyle.css"
+import Footer from '../components/Footer/Footer'
 
-const Middle = () => {
+
+const Account = () => {
   return (
     <>
       <div className='main'>
@@ -42,8 +44,9 @@ const Middle = () => {
             <span className='copy-btn'>Copy</span>
         </div>
        </div> 
+       <Footer/>
     </>
   )
 }
 
-export default Middle
+export default Account

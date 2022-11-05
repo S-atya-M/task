@@ -1,10 +1,10 @@
 import React from 'react'
-import "./Fstyle.css"
+import "./HFstyle.css"
 
-const Footer = () => {
+const HomeFooter = () => {
   return (
     <>
-        <div  className='Footer'>
+        <div  className='Home-Footer'>
            <span className='talk'>Let' talk</span>
            <span className='exmp'> someone@example.com</span>
            <span className='book-apn'>Book an appointment?</span>
@@ -27,4 +27,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default HomeFooter
