@@ -77,12 +77,18 @@ font-feature-settings: 'tnum' on, 'lnum' on;
 color: #4D4D4D;
 
 }
+
 .bg-img-h{
     position: absolute;
 left: 1073.18px;
 top: 88px;
 opacity: 10;
 
+}
+.uline{
+    position: absolute;
+left: 868.46px;
+top: 291.29px;
 }
 .aed{
     position: absolute;

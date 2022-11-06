@@ -69,6 +69,10 @@
     font-feature-settings: 'tnum' on, 'lnum' on;
     color: #ffffff;
 }
+a:any-link{
+    text-decoration: none;
+    color: currentColor;
+}
 .nav-logo{
     position: absolute;
     width: 48px;

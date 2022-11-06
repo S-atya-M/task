@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
 import './Style.css'
+import {  Link} from 'react-router-dom';
+//import Account from '../Pages/Account';
 
 const Header = () => {
   
@@ -11,7 +13,7 @@ const Header = () => {
                 <img src='header-logo.png' alt='header-logo' className='logo'></img>
                       <div className='about-us'>About Us</div>
                       <div className='our-programs'>Our Programs</div>
-        <div className='login'>Login</div>
+        <div className='login'><Link to="/Account">Login</Link></div>
         <div>
           <img src="nav-logo.png" alt="nav-logo" className='nav-logo' onClick={(e) => SetIsClick(!isClick) }/>
           {isClick?
@@ -31,6 +33,7 @@ const Header = () => {
         </div>
         
     </div>
+  
     </>
   )
 }

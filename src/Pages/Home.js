@@ -4,12 +4,13 @@ import HomeFooter from './HomeFooter'
 
 const Home = () => {
   return (
-    <>
+    <>   
+         {alert("Click login for My account page!!")}
         <span className='heading'>Yoga for Flat Abs</span>
         <span className='prog'>90 Days program</span>
         <span className='detl'>Details</span>
         <span className='techn'>Techniques</span>
-        
+        <img src="underline.png" alt="underline" className='uline'/>
         <span className='det2'>Choose a quiet space so that you can <br /> do the session uninterrupted. Make <br /> sure there is at least 2 hours gap <br /> between a meal and the class. Put all <br /> other devices aside and enjoy the <br /> session.</span>
         <div className='video-box'>
         <img src="play-btn.png" alt="play-btn" className='play-btn'/>
@@ -83,6 +84,7 @@ const Home = () => {
         <span className='ashish'>Ashish</span>
         <span className='zora'>Zora</span>
         <HomeFooter/>
+       
     </>
   )
 }

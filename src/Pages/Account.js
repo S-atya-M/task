@@ -1,6 +1,6 @@
 import React from 'react'
 import "./AccountStyle.css"
-import Footer from '../components/Footer/Footer'
+import Footer from '../components/Footer'
 
 
 const Account = () => {
