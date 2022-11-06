@@ -1,2 +1,1 @@
-account page :- https://ephemeral-cassata-5b3fd4.netlify.app/
-home page :- 
+Deploy site link : https://frabjous-bavarois-cefb18.netlify.app/
